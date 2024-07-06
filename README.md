@@ -1,2 +1,2 @@
-# project-IDX_workspace
+# Project-IDX Workspace
 Repository for Project IDX Workspace
